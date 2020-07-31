@@ -30,4 +30,4 @@ I am a BCA Graduate from BIT Mesra, Lalpur, Ranchi Campus. I am currently pursui
 |✉️ *kumar.ankit383@gmail.com*|
 | <a href="https://www.linkedin.com/in/ankit-singh-2b7b77118/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/AnkitKumar1311"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/ankit_kumar_11?hr_r=1"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-hackerrank-512.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
 
-⭐️ From [rkasale28](https://github.com/AnkitKumar1311)
+⭐️ From [AnkitKumar1311](https://github.com/AnkitKumar1311)
