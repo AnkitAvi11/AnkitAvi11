@@ -3,6 +3,12 @@
 
 I am a BCA Graduate from BIT Mesra, Lalpur, Ranchi Campus. I am currently pursuing my Masters in Computer applications. I am very passionate about solving problems. Love to work on multiple technologies like JavaScript, CPP, Java, Python. I am a MERN Full Stack developer and a Python Django Developer.
 
+### My Field of Interest
+Full stack Web Development 
+DevOps 
+Android Application Development
+Backend Development
+Database Administration
 <br />
 
 ### Stats
