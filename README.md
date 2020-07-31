@@ -11,7 +11,7 @@ I am a BCA Graduate from BIT Mesra, Lalpur, Ranchi Campus. I am currently pursui
     <td>  :three: Golden Badges  </td>
     <td>  :four: Skills Verified </td>
     <td>  :seven: Online Courses  </td>
-    <td>  :two::six: Github Repos </td>
+    <td>  :one::eight: Github Repos </td>
   </tr>
 </table>
 
@@ -26,10 +26,10 @@ I am a BCA Graduate from BIT Mesra, Lalpur, Ranchi Campus. I am currently pursui
 <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
 
 ### Contact Me
-|  <a href="https://github.com/rkasale28"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
+|  <a href="https://github.com/AnkitKumar1311"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|📞 *96645 94525*|
-|✉️ *rohit.kasale@somaiya.edu \| rohitkasale28@gmail.com*|
-|<a href="https://www.rohitkasale.tech/"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-website-96.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/rohit-kasale/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/rkasale28"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/rohit_kasale?hr_r=1"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-hackerrank-512.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
+|📞 *8969774292*|
+|✉️ *kumar.ankit383@gmail.com*|
+| <a href="https://www.linkedin.com/in/ankit-singh-2b7b77118/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/AnkitKumar1311"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/ankit_kumar_11?hr_r=1"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-hackerrank-512.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
 
-⭐️ From [rkasale28](https://github.com/rkasale28)
+⭐️ From [rkasale28](https://github.com/AnkitKumar1311)
