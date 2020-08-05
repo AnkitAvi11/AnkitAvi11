@@ -21,7 +21,6 @@ Database Administration,
   </tr>
 </table>
 
-### Github Stats
 <img align="left" alt="Ankit Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnkitKumar1311&show_icons=true&hide_border=true" />
 
 ### Technical Skills
