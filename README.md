@@ -29,8 +29,7 @@ Database Administration,
 <img src="https://img.shields.io/badge/-django-black?style=flat&logo=django">  <img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff"> <br/>
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br />
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"><img src="https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br />
-
-<br/><br/>
+<br/>
 ### Contact Me
 |  <a href="https://github.com/AnkitKumar1311"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
