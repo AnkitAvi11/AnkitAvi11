@@ -11,7 +11,7 @@ Backend Development,
 Database Administration,
 <br /> 
 
-### Stats
+### Stats 
 <table>
   <tr>
     <td>  :three: Golden Badges  </td>
