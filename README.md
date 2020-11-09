@@ -13,7 +13,7 @@ Database Administration,
 
 ### Stats 
 
-<img align="left" alt="Ankit Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnkitKumar1311&show_icons=true&hide_border=true" />
+<img align="left" alt="Ankit Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnkitAvi11&show_icons=true&hide_border=true" />
 
 ### Technical Skills
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br />
@@ -25,5 +25,5 @@ Database Administration,
 ### Contact Me
 |📞 *8969774292*|
 |✉️ *kumar.ankit383@gmail.com*|
-| <a href="https://www.linkedin.com/in/ankit-singh-2b7b77118/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/AnkitKumar1311"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/ankit_kumar_11?hr_r=1"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-hackerrank-512.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
+| <a href="https://www.linkedin.com/in/ankit-singh-2b7b77118/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/AnkitAvi11"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/ankit_kumar_11?hr_r=1"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-hackerrank-512.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
  
