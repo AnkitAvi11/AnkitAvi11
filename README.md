@@ -5,7 +5,7 @@ I am a BCA Graduate from BIT Mesra, Lalpur, Ranchi Campus. I am currently pursui
 
 ### My Field of Interest
 Full stack Web Development ,
-DevOps ,
+DevOps,
 Android Application Development,
 Backend Development,
 Database Administration,
