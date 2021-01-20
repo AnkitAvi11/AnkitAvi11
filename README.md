@@ -3,6 +3,17 @@
 
 I am a BCA Graduate from BIT Mesra, Lalpur, Ranchi Campus. I am currently pursuing my Masters in Computer applications and very passionate about solving problems. Love to work on multiple technologies like JavaScript, CPP, Java, Python.
 
+- 🔭 I’m currently working on a fullstack **Svelte and Django Application**
+
+- 🌱 I’m currently learning **Android Development and Cloud Computing**
+
+- 👨‍💻 Some of my projects are available at my [Github](https://github.com/AnkitAvi11?tab=repositories)
+
+- 💬 Ask me about **React, Javascript, Django, Node.js, Express, MongoDB, Data Structures and Algorithms**
+
+- 📫 How to reach me **kumar.ankit383@gmail.com**
+
+
 ### My Field of Interest
 Full stack Web Development ,
 DevOps,
