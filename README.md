@@ -1,4 +1,4 @@
-### Hi there. I am Ankit. 👋
+### Hi there. I am Ankit 👋
    
 
 I am a BCA Graduate from BIT Mesra, Lalpur, Ranchi Campus. I am currently pursuing my Masters in Computer applications and very passionate about solving problems. Love to work on multiple technologies like JavaScript, CPP, Java, Python.
