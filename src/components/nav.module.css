@@ -1,0 +1,27 @@
+.cover {
+    height: 350px;
+    margin: 0px;
+    padding: 0%;
+    width: 100%;
+    position: relative;
+}
+
+.cover::after {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    content: "";
+    background: linear-gradient(330deg, dodgerblue, purple);
+    left: 0;
+    top: 0;
+    opacity: .4;
+}
+
+.content {
+    width: 100%;
+    color: white;
+    position: relative;
+    left: 0;
+    height: auto;
+    z-index: 999;
+}
