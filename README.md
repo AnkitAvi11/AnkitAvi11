@@ -1,11 +1,11 @@
 ### Hi there. I am Ankit 👋
    
 
-I am a BCA Graduate from BIT Mesra, Lalpur, Ranchi Campus. I am currently pursuing my Masters in Computer applications and very passionate about solving problems. Love to work on multiple technologies like JavaScript, CPP, Java, Python.
+I am a Software Engineer - I at Oracle Cerner working as a Full Stack and Data Engineer solving day to day healthcare problems. 
 
-- 🔭 I’m currently working on a fullstack **Svelte and Django Application**
+- 🔭 I'm currently working on Big data projects.
 
-- 🌱 I’m currently learning **Android Development and Cloud Computing**
+- 🌱 I'm currently learning Apache Spark and Kafka.
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/AnkitAvi11?tab=repositories)
 
@@ -19,7 +19,7 @@ Full stack Web Development ,
 DevOps,
 Android Application Development,
 Backend Development,
-Database Administration,
+Big data Engineering,
 <br /> 
 
 ### Stats 
